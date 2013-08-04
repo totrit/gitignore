@@ -18,4 +18,5 @@ target
 tmp
 test-result
 server.pid
-modules
+*.iml
+*.eml
